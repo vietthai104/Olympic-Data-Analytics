@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-data-nvt",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "567195c6-f170-4020-9280-ed5514f0b73f",
+		"tenantId": "40127cd4-45f3-49a3-b05d-315a43a9f033"
+	}
+}
