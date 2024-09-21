@@ -26,9 +26,6 @@ Our data engineering pipeline follows these steps:
 * Azure Synapse Analytics
 * Power BI
 
-## Setup and Configuration
-
-(Add instructions for setting up the project, including any necessary Azure resource provisioning)
 
 ## Data Flow
 
