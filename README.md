@@ -36,4 +36,7 @@ This project demonstrates a comprehensive data engineering solution for processi
 ## Datasets
 Original datasets - https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 
+## Dashboard
+![Dashboard](dashboard.png)
+
 
