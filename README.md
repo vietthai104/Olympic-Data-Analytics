@@ -6,19 +6,11 @@ This project demonstrates a comprehensive data engineering solution for processi
 
 ## Architecture
 
-![Project Architecture](link_to_architecture_diagram.png)
-
-Our data engineering pipeline follows these steps:
-1. Data extraction using Azure Data Factory
-2. Raw data storage in Azure Data Lake Storage Gen 2
-3. Data transformation with Azure Databricks
-4. Processed data storage back to Azure Data Lake Storage Gen 2
-5. Data analysis using Azure Synapse Analytics
-6. Data visualization with Power BI
+![Project Architecture](Architecture.png)
 
 ## Technology Used
 
-* Python
+* Python (Apache Spark)
 * SQL
 * Azure Data Factory
 * Azure Data Lake Storage Gen 2
